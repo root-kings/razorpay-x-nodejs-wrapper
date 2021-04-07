@@ -1,2 +1,11 @@
 # razorpay-x-nodejs-wrapper
-Wrapper for RazorpayX API for Node
+[WIP] Wrapper for RazorpayX API for Node
+
+Requires `axios`.
+
+Provides the following functions:
+
+- `createContact`
+- `updateContact`
+- `createBankAccount`
+- `createPayout`
